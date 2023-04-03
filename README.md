@@ -1,7 +1,7 @@
-# This repository contains wespace forest ml materials.
-Normally I worked on Google Collab.
+# This repository contains machine learning materials for the Wespace Forest project.
+Typically, I work on Google Colab.
 
-All data are label using https://www.makesense.ai/ and convert annotation by convert_2_deepforest_format.ipynb
+All of the data in this repository has been labeled using the Makesense.ai platform and converted to annotations using the 'convert_2_deepforest_format.ipynb' script.
 
-# Next step
-Automate detect tree and save data to database by create api to receive start (lat, lng) and end (lat, lng)
+# Moving forward
+the next step is to automate the detection of trees and save the resulting data to a database. This will be achieved by creating an API that can receive start (latitude, longitude) and end (latitude, longitude) coordinates.
