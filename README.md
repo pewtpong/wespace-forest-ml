@@ -1,5 +1,5 @@
-# This repository contains machine learning materials for the Wespace Forest project.
-Typically, I work on Google Colab.
+# WeSpace tree detection
+This repository contains machine learning materials for the Wespace Forest project. Typically, I work on Google Colab.
 
 All of the data in this repository has been labeled using the Makesense.ai platform and converted to annotations using the 'convert_2_deepforest_format.ipynb' script.
 
